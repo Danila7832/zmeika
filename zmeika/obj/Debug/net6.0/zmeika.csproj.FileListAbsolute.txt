@@ -1,0 +1,15 @@
+D:\C#\zmeika\zmeika\bin\Debug\net6.0\zmeika.exe
+D:\C#\zmeika\zmeika\bin\Debug\net6.0\zmeika.deps.json
+D:\C#\zmeika\zmeika\bin\Debug\net6.0\zmeika.runtimeconfig.json
+D:\C#\zmeika\zmeika\bin\Debug\net6.0\zmeika.dll
+D:\C#\zmeika\zmeika\bin\Debug\net6.0\zmeika.pdb
+D:\C#\zmeika\zmeika\obj\Debug\net6.0\zmeika.csproj.AssemblyReference.cache
+D:\C#\zmeika\zmeika\obj\Debug\net6.0\zmeika.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\zmeika\zmeika\obj\Debug\net6.0\zmeika.AssemblyInfoInputs.cache
+D:\C#\zmeika\zmeika\obj\Debug\net6.0\zmeika.AssemblyInfo.cs
+D:\C#\zmeika\zmeika\obj\Debug\net6.0\zmeika.csproj.CoreCompileInputs.cache
+D:\C#\zmeika\zmeika\obj\Debug\net6.0\zmeika.dll
+D:\C#\zmeika\zmeika\obj\Debug\net6.0\refint\zmeika.dll
+D:\C#\zmeika\zmeika\obj\Debug\net6.0\zmeika.pdb
+D:\C#\zmeika\zmeika\obj\Debug\net6.0\zmeika.genruntimeconfig.cache
+D:\C#\zmeika\zmeika\obj\Debug\net6.0\ref\zmeika.dll
